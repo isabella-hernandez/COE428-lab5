@@ -1,0 +1,9 @@
+*.o
+*.out
+*.exe
+a.out
+
+part1Main
+part2Main
+
+*.zip
